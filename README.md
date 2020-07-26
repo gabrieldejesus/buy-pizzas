@@ -7,6 +7,9 @@ cart the project was created to exercise my knowledge in HTML5 / CSS3 and JavaSc
 > Web preview
 ![](images/web-preview.png)
 
+## Deployment in
+https://devgabrieldejesus.github.io/buy-pizzas
+
 ## Contact me
 
 Gabriel de Jesus – (https://www.linkedin.com/in/gabrieldejesuss) – contato@gabrieldesenvolvedor.com
