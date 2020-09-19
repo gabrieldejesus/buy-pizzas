@@ -3,7 +3,7 @@ Project in which the user chooses his pizza of the desired size and quantity and
 cart the project was created to exercise my knowledge in HTML5 / CSS3 and JavaScript.
 
 `Web preview`
-![](images/web-preview.png)
+![](images/web-preview.gif)
 
 ## Deployment in
 https://devgabrieldejesus.github.io/buy-pizzas
