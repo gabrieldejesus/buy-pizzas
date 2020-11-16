@@ -60,7 +60,7 @@ _Português_
 🍕 Projeto em que o usuário escolhe sua pizza no tamanho e quantidade desejados e automaticamente o produto escolhido e adicionado ao seu carrinho.
 
 `Visualização da Web`
-![](images web-preview.gif)
+![](images/web-preview.gif)
 
 ## 🕹 Teste aqui
 https://devgabrieldejesus.github.io/buy-pizzas
