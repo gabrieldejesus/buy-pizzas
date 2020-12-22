@@ -1,107 +1,73 @@
-_English_
-
 # Buy pizzas
 
 🍕 Project in which the user chooses his pizza of the desired size and quantity and automatically the chosen product and added to his cart.
 
-`Web preview`
 ![](images/web-preview.gif)
 
-## 🕹 Deployment in
-https://devgabrieldejesus.github.io/buy-pizzas
+<p align="center">
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
+     
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/buy-pizzas?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-## 💻 Configuation for Development
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/buy-pizzas?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/buy-pizzas?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/buy-pizzas?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+  <a href="https://github.com/gabrieldejesus">
+    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
+  </a>
+</p>
+
+## 🕹 Test here
+
+https://gabrieldejesus.github.io/buy-pizzas
+
+## 🛠 Getting started
 
 Windows:
 
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/devgabrieldejesus/buy-pizzas
+git clone https://github.com/gabrieldejesus/buy-pizzas
 ```
 
 or download the zip from the green button at the beginning of the repository
 
-![](images/clone.png)
+<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
 
-![](images/clone-zip.png)
+<img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
+
+## 💻 Configuration for development
+
+To run the project just run the file: `index.html`, type a text in the text area and click on read.
 
 ## 🗃 Release history
 
-* 0.1.0
-    * Project finalized and studying the possibility of adding new resources
-    * The first suitable launch
-* 0.0.1
-    * Work in progress
+- 0.1.0
+  - Project finalized and studying the possibility of adding new resources
+  - The first suitable lauch
+- 0.0.1
+  - Work in progress
 
 ## 📝 Meta
 
-Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com) – oi@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com) – devgabrieldejesus@gmail.com
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/devgabrieldejesus/buy-pizza](https://github.com/devgabrieldejesus/)
+[https://github.com/gabrieldejesus/buy-pizzas](https://github.com/gabrieldejesus)
 
+## 🚀 Contribution
 
-## 🚀 Contributing
+1. Make the _fork_ of the project (<https://github.com/gabrieldejesus/buy-pizzas/fork>)
+2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
+3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
+4. _Push_ (`git push origin my-new-feature`)
+5. Create a new _Pull Request_
 
-1. Fork it (<https://github.com/devgabrieldejesus/buy-pizzas/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+**After your pull request is merged**, you can safely delete your branch.
 
 ---
-
-_Português_
-
-# Compre pizzas
-
-🍕 Projeto em que o usuário escolhe sua pizza no tamanho e quantidade desejados e automaticamente o produto escolhido e adicionado ao seu carrinho.
-
-`Visualização da Web`
-![](images/web-preview.gif)
-
-## 🕹 Teste aqui
-https://devgabrieldejesus.github.io/buy-pizzas
-
-## 💻 Configuração para desenvolvimento
-
-Windows:
-
-Você pode clonar o repositório por meio do CMD (Prompt de Comando) apenas digitando:
-
-```sh
-git clone https://github.com/devgabrieldejesus/buy-pizzas
-```
-
-ou baixe o zip do botão verde no início do repositório
-
-![](images/clone.png)
-
-![](images/clone-zip.png)
-
-## 🗃 Histórico de lançamento
-
-* 0.1.0
-    * Projeto finalizado e estudando a possibilidade de agregar novos recursos
-    * O primeiro lançamento adequado
-* 0.0.1
-    * Trabalho em progresso
-
-## 📝 Meta
-
-Gabriel de Jesus - [Meu portfólio](https://www.gabrieldesenvolvedor.com) - oi@gabrieldesenvolvedor.com
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-[https://github.com/devgabrieldejesus/buy-pizza](https://github.com/devgabrieldejesus/)
-
-
-## 🚀 Contribuição
-
-1. Fork it (<https://github.com/devgabrieldejesus/buy-pizzas/fork>)
-2. Crie seu branch de recurso (`git checkout -b feature / fooBar`)
-3. Faça commit de suas alterações (`git commit -am 'Add some fooBar'`)
-4. Empurre para o branch (`git push origin feature / fooBar`)
-5. Crie uma nova solicitação pull
